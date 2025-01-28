@@ -1,0 +1,6 @@
+exec
+build/*.o
+Imagens_de_Teste/res-*
+Imagens_de_Teste/R-*
+.vscode/*
+exit.txt

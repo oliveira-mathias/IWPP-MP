@@ -1,6 +1,0 @@
-exec
-build/*.o
-Screenshots/*
-ImagensTeste/*.tiff
-ImagensTeste/*.csv
-.vscode/*
